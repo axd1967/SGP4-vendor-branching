@@ -1,8 +1,11 @@
 # SGP4 forks
 
+# DRAFT #
+
 ## BUSY
 ## TODO
-- list as mucht forks as possible
+
+- list as much forks as possible
 
 This project tries to create an inventory of SGP4 forks and convince those users to try to not reinvent the wheel...
 
