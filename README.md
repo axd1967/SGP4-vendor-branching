@@ -2,15 +2,11 @@
 
 # DRAFT #
 
-## BUSY
-## TODO
-
-- list as much forks as possible
-
 This project tries to create an inventory of SGP4 forks and convince those users to try to not reinvent the wheel...
 
 The reference should be Vallado's https://github.com/CelesTrak/fundamentals-of-astrodynamics/tree/main/software/cpp/SGP4/SGP4
-[This Celestrak publication](https://celestrak.org/publications/AIAA/2006-6753/AIAA-2006-6753.zip) is already a first invitaion to go copy-pasting. 
+
+[This Celestrak publication](https://celestrak.org/publications/AIAA/2006-6753/AIAA-2006-6753.zip) is already a first invitation to go copy-pasting. 
 BTW - it is unclear how it relates to the GitHub version. In other words, when publishing code, use a VCS (Git is highly recommended...), not a file format.
 
 The recommended approach to avoid copy-pasta is described here: https://github.com/axd1967/vendor-branching
@@ -37,7 +33,8 @@ The recommended approach to avoid copy-pasta is described here: https://github.c
 ## SGP4 forks
 
 - https://www.projectpluto.com/sat_code.htm
-- https://pypi.org/project/sgp4/ -> https://github.com/brandon-rhodes/python-sgp4/discussions/176#discussion-11217270
+- https://pypi.org/project/sgp4/ 
+	- https://github.com/brandon-rhodes/python-sgp4/discussions/176#discussion-11217270
 - https://github.com/dnwrnr/sgp4/
 - https://github.com/ssmichael1/satkit
 
@@ -46,4 +43,10 @@ The recommended approach to avoid copy-pasta is described here: https://github.c
 # Discussions
 
 - https://github.com/DigitalArsenal/spacedatastandards.org/issues/33
+
+## BUSY
+## TODO
+- list as much forks as possible
+- discussions, issues
+
 
