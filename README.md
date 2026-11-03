@@ -9,7 +9,7 @@ The reference should be Vallado's https://github.com/CelesTrak/fundamentals-of-a
 [This Celestrak publication](https://celestrak.org/publications/AIAA/2006-6753/AIAA-2006-6753.zip) is already a first invitation to go copy-pasting. 
 BTW - it is unclear how it relates to the GitHub version. In other words, when publishing code, use a VCS (Git is highly recommended...), not a file format.
 
-The recommended approach to avoid copy-pasta is described here: https://github.com/axd1967/vendor-branching
+A interesting approach to avoid copy-pasta is described here: https://github.com/axd1967/vendor-branching
 
 ## related
 
