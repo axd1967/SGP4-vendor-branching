@@ -1,6 +1,43 @@
 # SGP4 forks
 
-# DRAFT #
+# DRAFT
+
+---
+
+Document revisions
+
+2026-11-05 v0.1
+
+---
+
+
+scratchpad:
+
+https://github.com/DigitalArsenal/spacedatastandards.org/issues/33
+https://github.com/orgs/tudat-team/discussions/120#discussioncomment-19352150
+https://github.com/brandon-rhodes/python-sgp4/discussions/176#discussion-11217270
+https://github.com/ssmichael1/satkit
+https://github.com/orgs/tudat-team/discussions/120#discussioncomment-16881205
+https://github.com/tudat-team/tudat-resources/issues/11
+
+https://ccsds.org/publications/moims/
+https://github.com/DigitalArsenal/spacedatastandards.org
+https://celestrak.org/NORAD/documentation/gp-data-formats.php
+https://www.movingsatellites.com/e_gps.html (probably to be discarded)
+
+https://github.com/shashwatak/satellite-js
+https://github.com/shashwatak/satellite-js
+https://github.com/magnific0/SGP4 (dead, see https://github.com/magnific0/SGP4/issues/1)
+https://github.com/aholinch/sgp4 (dead? https://github.com/aholinch/sgp4/issues/9)
+https://www.projectpluto.com/sat_code.htm and https://github.com/Bill-Gray/sat_code
+https://github.com/DigitalArsenal/spacedatastandards.org/issues/33
+https://github.com/orgs/tudat-team/discussions/120#discussioncomment-19352150
+https://github.com/brandon-rhodes/python-sgp4/ 
+	- compare to https://github.com/CelesTrak/fundamentals-of-astrodynamics/tree/main/software/python
+	- see https://github.com/brandon-rhodes/python-sgp4/discussions/176#discussion-11217270
+https://github.com/ssmichael1/satkit
+https://github.com/orgs/tudat-team/discussions/120#discussioncomment-16881205 and https://github.com/tudat-team/tudat-resources/issues/11
+
 
 This project tries to create an inventory of SGP4 forks and convince those users to try to not reinvent the wheel...
 
