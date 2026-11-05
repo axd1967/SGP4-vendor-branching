@@ -1,4 +1,5 @@
 # SGP4 forks
 
-This project has been archived. In order to regroup vendor issues across projects, please go to [this page](https://github.com/axd1967/vendor-branching/blob/master/cases/SGP4/README.md) for SGP4 issues.
+This project has been archived.
+SGP4 related vendor branch issues are bundled [here](https://github.com/axd1967/vendor-branching/blob/master/cases/SGP4/README.md).
 
